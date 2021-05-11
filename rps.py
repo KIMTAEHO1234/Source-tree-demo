@@ -1,5 +1,5 @@
 play = ["Rock", "Paper", "Scissors"]
 
 computer = "Rock"
-print('Computer: {} paper Scissors)
+print('Computer: {}.format(computer))
 player = "Paper"
