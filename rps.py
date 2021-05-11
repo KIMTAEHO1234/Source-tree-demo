@@ -4,10 +4,8 @@ play = ["Rock", "Paper", "Scissors"]
 
 computer = play[randint(0, 2)]
 print('Computer: {}.format(computer))
-<<<<<<< HEAD
-      
-=======
 
->>>>>>> random
-player = "Paper"
+player = input(Rock, Paper, Scissors)
 print('player: {}.format(player))
+
+      
